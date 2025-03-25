@@ -1,0 +1,35 @@
+# 📅 Week 2: AWS Cloud Services Basics – EC2, S3 & CloudWatch
+
+## ✅ Objective
+This week's tasks focused on deploying basic AWS infrastructure and understanding core services like EC2, S3, and CloudWatch. It included launching an EC2 instance, configuring billing alarms, uploading files to S3 using PowerShell, and handling access/connection issues.
+
+---
+
+## 🛠️ Services Used
+- **Amazon EC2:** Instance creation & access
+- **Amazon S3:** Bucket creation & file upload (via CLI/PowerShell)
+- **Amazon CloudWatch:** Billing alarms
+- **IAM Roles & Policies**
+- **PowerShell on EC2 Windows instance**
+
+---
+
+## 🔍 Activities Performed
+
+### 1. ✅ **Created a Billing Alarm in CloudWatch**
+- Condition: Alert if estimated charges exceed $10
+- SNS topic used (pending subscription confirmation)
+
+### 2. ✅ **Created S3 Bucket: `academics-raw-lok`**
+- Region: US East (N. Virginia)
+- Created folders: `faculty-performance/`, `panel-members/`, `preliminary-feedback/`
+
+### 3. ✅ **Launched EC2 Instance**
+- Type: t3.micro (Free tier)
+- Platform: Windows
+- Connected via RDP using public IPv4
+
+### 4. ✅ **Uploaded a File from EC2 using PowerShell**
+```powershell
+write-s3object -bucket academics-raw-lok -file "C:\Users\Administrator\Documents\Panel-members.csv" `
+-key "academics/panel-members/year-2025/quarter-1/server-AGVS-LOK/Panel-members.csv"
