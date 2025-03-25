@@ -18,4 +18,20 @@ Welcome! This repository showcases a collection of cloud computing projects I ha
 - Enables on-the-fly image processing and uploads
 - Secured using IAM Roles and Lambda execution policies
 
-### 🌐 [Web App Deployment on
+### 🌐 [Web App Deployment on EC2](./EC2-WebApp-Deployment)
+- Deployed a Node.js web app on EC2
+- Configured Load Balancer, Auto Scaling Group
+- Infrastructure as Code using CloudFormation
+
+### 📊 [Real-Time Data Pipeline](./Kinesis-Data-Pipeline)
+- Ingested and processed streaming data using AWS Kinesis
+- Lambda for transformation; S3 for persistent storage
+- CloudWatch for logs and monitoring
+
+---
+
+## 📩 Contact
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** yourname@email.com
+
+Feel free to explore each project folder for code, architecture diagrams, and documentation.
