@@ -42,4 +42,7 @@ EC2 instance desktop accessed using Remote Desktop.
 ---
 
 ### 6. ✅ Uploaded File from EC2 using PowerShell  
+```powershell
+write-s3object -bucket academics-raw-lok -file "C:\Users\Administrator\Documents\Panel-members.csv" `
+-key "academics/panel-members/year-2025/quarter-1/server-AGVS-LOK/Panel-members.csv"
 
