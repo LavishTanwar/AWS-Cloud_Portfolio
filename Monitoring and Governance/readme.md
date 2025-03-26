@@ -20,13 +20,15 @@ Week-09-Monitoring-Governance/
 ## 📘 Analysis
 
 ### 1. **Cloud Foundations Knowledge Check**  
-**<img width="959" alt="image1" src="https://github.com/user-attachments/assets/2c6ede94-5b1e-452c-93c8-69038c902efc" />
+**![image1](https://github.com/user-attachments/assets/7787a52e-8ad9-4481-ac40-1e82c1afc39f)
+
 **  
 - Scored **90%**, indicating strong grasp of AWS Cloud Foundations Module 10.
 - Demonstrates clear understanding of monitoring, governance, and account activity tracking.
 
 ### 2. **CloudWatch Dashboard Configuration**  
-**<img width="959" alt="image2" src="https://github.com/user-attachments/assets/0d2e5409-d4d4-45e7-a464-c2c2b6d7ce67" />
+**![image2](https://github.com/user-attachments/assets/b30773dc-2a2f-481b-8bec-bc09cf6e2192)
+
 **  
 - A CloudWatch Dashboard named **aca-prg-MCR-LOK** was created.
 - Two widgets are configured:
@@ -35,7 +37,8 @@ Week-09-Monitoring-Governance/
 - A CloudWatch **Alarm** named `aca-prg-alarm-lok` is set up to monitor defined thresholds. This is key for real-time alerting and automation.
 
 ### 3. **AWS CloudTrail Setup for Auditing**  
-**<img width="959" alt="image3" src="https://github.com/user-attachments/assets/bb162b64-08ce-4e38-8a19-918351ecf1e7" />**  
+**![image3](https://github.com/user-attachments/assets/66fc793d-7424-4781-9258-d6e5fe6d7e8c)
+**  
 - CloudTrail trail `aca-prg-trail-lok` is created and logging is enabled.
 - **Multi-region trail**: Enabled to monitor activity across all regions.
 - No SNS notifications or CloudWatch log group integration is enabled yet, which could be added for advanced alerting.
