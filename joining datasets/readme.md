@@ -1,3 +1,4 @@
+
 # Week 5 Cloud Portfolio - README.md
 
 ## ✅ Overview
@@ -9,12 +10,7 @@ In Week 5, the focus was on **joining datasets**, **data enrichment**, and **job
 ```
 aws-cloud-portfolio/
 ├── week5/
-│   ├── glue-jobs/![image5](https://github.com/user-attachments/assets/d140033e-562c-40a5-bd7f-20490263a2a8)
-![image4](https://github.com/user-attachments/assets/457451e3-dc24-481e-967a-441e2401b910)
-![image3](https://github.com/user-attachments/assets/7ed3c552-1ad8-4111-a7aa-3ec143380edf)
-![image2](https://github.com/user-attachments/assets/76c9d02c-51ad-4e65-ad1d-2e338c97dcd8)
-![image1](https://github.com/user-attachments/assets/2fb9b3de-36f2-4c14-ac40-b65aba70a223)
-
+│   ├── glue-jobs/
 │   │   └── Faculty-Preliminary
 │   ├── s3-outputs/
 │   │   ├── system/               --> parquet output of joined data
@@ -87,6 +83,11 @@ aws-cloud-portfolio/
 - Catalog Table → `faculty performance metrics`
 - Diagram view → join logic + output structure
 - Cost dashboard for job resource tracking
+![image5](https://github.com/user-attachments/assets/5227ae97-d255-40de-9f35-48e5cad26926)
+![image4](https://github.com/user-attachments/assets/1261534f-6e68-4fa3-9814-aa03d9e23502)
+![image3](https://github.com/user-attachments/assets/9c4af85a-60a6-420b-a35f-a5ed80ecf443)
+![image2](https://github.com/user-attachments/assets/75115e81-823b-4f24-b981-05d1c5ab541d)
+![image1](https://github.com/user-attachments/assets/f3b69c82-8e2d-4b5e-9a8f-1b725fb40399)
 
 ---
 
