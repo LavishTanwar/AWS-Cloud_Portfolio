@@ -45,13 +45,13 @@ EC2 instance desktop accessed using Remote Desktop.
 ```powershell
 write-s3object -bucket academics-raw-lok -file "C:\Users\Administrator\Documents\Panel-members.csv" `
 -key "academics/panel-members/year-2025/quarter-1/server-AGVS-LOK/Panel-members.csv"
+![image9](https://github.com/user-attachments/assets/d100e584-ceb2-4719-8504-3583828091a7)
+![image8](https://github.com/user-attachments/assets/fa8f519f-cff9-4f94-8431-8e97c3d9d5fe)
+![image7](https://github.com/user-attachments/assets/66e3518a-12da-4b68-ab94-b50c2a0b7dc0)
+![image6](https://github.com/user-attachments/assets/9164c66f-b30b-451c-bf7c-79691f0251f1)
+![image5](https://github.com/user-attachments/assets/404ba8d8-bb74-4cd5-b28d-0c5f93bef9be)
+![image4](https://github.com/user-attachments/assets/9a071af6-de0d-41c2-a780-f7d1a0df73cf)
+![image3](https://github.com/user-attachments/assets/99be0b06-766a-4070-97ef-f7de0a38688a)
+![image2](https://github.com/user-attachments/assets/e80aff56-c21a-4bde-b7ac-6c0e3b6e8783)
+![image1](https://github.com/user-attachments/assets/0a7b50a5-6885-4806-8840-f9d6a77de4b7)
 
-![image1](https://github.com/user-attachments/assets/11ae3f0f-f24a-4f07-b50b-bb1e46b24ac8)
-![image2](https://github.com/user-attachments/assets/ab28df01-d9a1-4833-8785-5151e0483958)
-![image3](https://github.com/user-attachments/assets/c389a677-1d89-4d09-ab29-1296396c6236)
-![image4](https://github.com/user-attachments/assets/08a7423f-ca57-48ef-8ca8-2a343b8571ec)
-![image6](https://github.com/user-attachments/assets/849f6ed2-ce8d-4e44-a794-d9ecfae8fd95)
-![image5](https://github.com/user-attachments/assets/74d1b350-0a0f-44f4-9fa6-04a7418cb4e2)
-![image9](https://github.com/user-attachments/assets/8cdf14c8-a203-477e-b0d8-bd1ff655a1c5)
-![image7](https://github.com/user-attachments/assets/3d9dd948-7c3e-4644-a57f-88e1277dc2dc)
-![image8](https://github.com/user-attachments/assets/50848cfe-a9d9-41f0-81c2-a43d2be87389)
