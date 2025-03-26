@@ -4,7 +4,7 @@ This week focused on processing and querying semi-structured data stored in Amaz
 
 ---
 
-## Directory Structure (Suggestion)
+## Directory Structure
 
 ```bash
 week-6/
