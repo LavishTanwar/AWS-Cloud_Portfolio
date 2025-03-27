@@ -31,7 +31,7 @@ Welcome! This repository showcases a collection of cloud computing projects I ha
 ---
 
 ## 📩 Contact
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** yourname@email.com
+- **LinkedIn:** www.linkedin.com/in/lavishtanwary2z
+- **Email:** lokesh.kumar@myucwest.ca
 
 Feel free to explore each project folder for code, architecture diagrams, and documentation.
